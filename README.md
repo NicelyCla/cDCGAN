@@ -8,10 +8,10 @@ This was used as a comparison with our meta-DCGAN-{1,2} MLP and meta-WGAN-gp 2ML
 ## Example
 ![](example2.png) ![](example.png)
 ## Metrics
-###MNIST:
+### MNIST:
 FID: 11.927998813352<br>
 IS: (9.74927, 0.26216)
 
-###CIFAR10:
+### CIFAR10:
 FID: 35.16453<br>
 IS: (3.86256, 0.14062)
