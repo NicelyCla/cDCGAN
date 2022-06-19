@@ -7,3 +7,6 @@ This was used as a comparison with our meta-DCGAN-{1,2} MLP and meta-WGAN-gp 2ML
 ![](cDCGAN.png)
 ## Example
 ![](example.png)
+## Metrics
+FID: 35.16453
+IS: (3.86256, 0.14062)
