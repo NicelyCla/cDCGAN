@@ -6,7 +6,7 @@ This was used as a comparison with our meta-DCGAN-{1,2} MLP and meta-WGAN-gp 2ML
 ## Architecture
 ![](cDCGAN.png)
 ## Example
-![](example.png)
+![](example.png) ![](example2.png)
 ## Metrics CIFAR10
 FID: 35.16453
 
