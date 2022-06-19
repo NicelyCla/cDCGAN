@@ -17,3 +17,6 @@ IS: (9.74927, 0.26216) (max 10; InceptionV3 trained with MNIST)
 ### CIFAR10:
 FID: 35.16453<br>
 IS: (3.86256, 0.14062)
+
+--------------
+See also my <a href="https://github.com/NicelyCla/cWGAN-gp">cWGAN-gp</a>
